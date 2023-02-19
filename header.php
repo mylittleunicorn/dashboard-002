@@ -6,7 +6,7 @@
         <title>SuperaseR - Dasboard 001</title>
         
         <!-- LINK BOOTSTRAP CSS -->
-        <!-- <link rel="stylesheet" href="dist/css/bootstrap.min.css"> -->
+        <link rel="stylesheet" href="dist/css/bootstrap.min.css">
 
         <!-- LINK BOOTSTRAP ICONS -->
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
